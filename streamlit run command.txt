@@ -1,0 +1,1 @@
+streamlit run "D:\ML Multi Disease\mdps.py"
